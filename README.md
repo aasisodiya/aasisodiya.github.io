@@ -1,4 +1,4 @@
-# Akash Sisodiya's Projects
+# Akash Sisodiya's Github
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=aasisodiya.aasisodiya)](https://github.com/aasisodiya) [![GitHub followers](https://img.shields.io/github/followers/aasisodiya.svg?style=social&label=Follow)](https://github.com/aasisodiya?tab=followers)
 
